@@ -54,18 +54,18 @@ Let me know if you'd like to expand on any of these steps or add technical detai
 
 # Screenshots of the Dashboard:
 
-![power_hitters_and_openers](Screenshot/1.jpg)
+![power_hitters_and_openers](Screenshots/1.jpg)
 
-![hover_effect](Screenshot/1.jpg)
+![hover_effect](Screenshots/1.jpg)
 
-![individual_stats](Screenshot/1.jpg)
+![individual_stats](Screenshots/1.jpg)
 
-![anchors](Screenshot/1.jpg)
+![anchors](Screenshots/1.jpg)
 
-![finishers](Screenshot/1.jpg)
+![finishers](Screenshots/1.jpg)
 
-![all_rounders](Screenshot/1.jpg)
+![all_rounders](Screenshots/1.jpg)
 
-![fast_bowlers](Screenshot/1.jpg)
+![fast_bowlers](Screenshots/1.jpg)
 
-![pick_final_11](Screenshot/1.jpg)
+![pick_final_11](Screenshots/1.jpg)
