@@ -1,1 +1,1 @@
-# T20_World_Cup_2024
+# T20_World_Cup_2022
