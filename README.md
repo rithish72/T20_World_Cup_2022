@@ -62,8 +62,8 @@ Let me know if you'd like to expand on any of these steps or add technical detai
 
 ![Lower_Order](Screenshots/4.jpg)
 
-![fast_bowlers](Screenshots/6.jpg)
+![fast_bowlers](Screenshots/5.jpg)
 
-![spin_bowlers](Screenshots/7.jpg)
+![spin_bowlers](Screenshots/6.jpg)
 
 ![pick_final_11](Screenshots/7.jpg)
