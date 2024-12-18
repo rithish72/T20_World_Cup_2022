@@ -54,18 +54,16 @@ Let me know if you'd like to expand on any of these steps or add technical detai
 
 # Screenshots of the Dashboard:
 
-![power_hitters_and_openers](Screenshots/1.jpg)
+![Top_Order](Screenshots/1.jpg)
 
-![hover_effect](Screenshots/1.jpg)
+![Moddle_Order](Screenshots/2.jpg)
 
-![individual_stats](Screenshots/1.jpg)
+![Lower_Middle_Order](Screenshots/3.jpg)
 
-![anchors](Screenshots/1.jpg)
+![Lower_Order](Screenshots/4.jpg)
 
-![finishers](Screenshots/1.jpg)
+![fast_bowlers](Screenshots/6.jpg)
 
-![all_rounders](Screenshots/1.jpg)
+![spin_bowlers](Screenshots/7.jpg)
 
-![fast_bowlers](Screenshots/1.jpg)
-
-![pick_final_11](Screenshots/1.jpg)
+![pick_final_11](Screenshots/7.jpg)
